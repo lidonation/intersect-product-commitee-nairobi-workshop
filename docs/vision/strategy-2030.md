@@ -22,7 +22,10 @@ empowering coordination at scale. This plan translates
 that ambition into actionable imperatives, operational principles,
 and measurable metrics designed to guide the ecosystem's collective
 efforts and achieve widespread utility and economic
-self-sufficiency. Rigorous **Key Performance Indicator (KPI)**
+self-sufficiency. Critically, this plan recognizes the
+importance of stimulating on-chain demand, fostering
+meaningful transactions, and addressing external perceptions
+to drive growth. Rigorous **Key Performance Indicator (KPI)**
 definition and adherence will be fundamental to our success.
 The full expression of the Cardano Vision 2030
 is detailed in the dedicated Vision Document.
@@ -39,26 +42,32 @@ and market demands:
     majority of end-users, the underlying blockchain
     technology operates seamlessly and imperceptibly,
     functioning as a robust tool under the hood rather than
-    a visible layer requiring specialized knowledge.
+    a visible layer requiring specialized knowledge. As one
+    partner noted, "Nobody cares about blockchain per se.
+    What we care about is the applications."
 * **Intuitive User Experience (UX):** Prioritize the
     development of dApps and services with UX design that
     mirrors familiar web2 applications, removing barriers
     associated with wallets, transaction signing, and fee
-    management. This enables flexible payment methods that
-    significantly lower the barrier to entry for new users.
+    management. This enables flexible payment methods,
+    including stablecoin off-ramps, that significantly lower
+    the barrier to entry for new users and businesses.
 * **Empower Developers for Abstraction:** Provide
     developers with the tools and frameworks necessary to
     build applications that effectively abstract away
     blockchain complexities for their users, allowing them
-    to focus on delivering value and functionality.
+    to focus on delivering value and functionality. This
+    includes addressing foundational friction in the
+    developer journey to streamline the builder experience
+    and make development as attractive as competing platforms.
 * **Enable Broad Accessibility and Participation:** Support
     mechanisms and tooling that allow users and operators to
     participate in the network and contribute to
     decentralization and security with minimal resource
-    requirements.
+    requirements. This includes a strategic emphasis on
+    enabling an ease of participation.
 
-#### 2. Fostering a Culture-First Approach and Localized
-Engagement
+#### 2. Fostering a Culture-First Approach and Localized Engagement
 
 * **Integrate Cultural Understanding:** Embed a
     culture-first approach as a foundational layer in all
@@ -66,7 +75,10 @@ Engagement
     This involves structured insight gathering on how users
     in diverse regions define trust, empowerment, and
     connection, informing local use case design, messaging,
-    and onboarding strategies.
+    and onboarding strategies. This imperative directly
+    supports revenue growth and widespread adoption by
+    ensuring Cardano's solutions are relevant and embraced
+    across diverse global communities.
 * **Empower Local Partnerships and Communication:**
     Prioritize identifying and collaborating with key local
     individuals and partners who can facilitate
@@ -102,9 +114,9 @@ Engagement
 
 #### 3. Cultivate a Vibrant, Skilled, and Engaged Ecosystem
 
-* **Centralize and Improve Documentation:** Address
+* **Consolidate and Improve Documentation:** Address
     fragmented developer documentation by creating
-    centralized, community-led resources with examples,
+    consolidated, community-led resources with examples,
     videos, and clear onboarding paths. Simplify learning
     for complex blockchain concepts, making them accessible
     to a wider audience, including beginners.
@@ -119,14 +131,13 @@ Engagement
     that provide students and developers with practical
     experience in Cardano tooling and real-world
     problem-solving through blockchain and AI convergence.
-* **Enable Seamless Decentralized Collaboration:** Develop
-    and utilize effective platforms and processes that
-    facilitate asynchronous collaboration, transparent
-    feedback, and verifiable decision-making within a
-    distributed and virtual environment. Implement
-    strategies to sustain consistent engagement and
-    high-quality contributions across diverse time zones
-    and cultural backgrounds.
+* **Enable Seamless Decentralized Collaboration:** Cultivate
+    effective platforms and processes that facilitate
+    asynchronous collaboration, transparent feedback, and
+    verifiable decision-making within a distributed and
+    virtual environment. Implement strategies to sustain
+    consistent engagement and high-quality contributions
+    across diverse time zones and cultural backgrounds.
 * **Provide Dedicated Growth Support for Key Applications:**
     Establish programs and resources to offer elite
     development and business development assistance to
@@ -138,9 +149,13 @@ Engagement
     Cardano's capabilities as a leading development platform
     for diverse blockchain paradigms, attracting builders
     focused on high-value assets and unique programming models.
+    Ensure marketing credibility by focusing on
+    verifiable on-chain activity and demonstrable use cases.
+* **Build Local Developer Capacity:** Focus on building
+    local developer ecosystems in target markets to address
+    talent shortages and reduce the cost of external expertise.
 
-#### 4. Drive Enterprise & National Adoption: Secure & Value-Additive
-Integration
+#### 4. Drive Enterprise & National Adoption: Secure & Value-Additive Integration
 
 * **Prioritize Application-Level Security:** Address the
     critical concern of application-level security on public
@@ -153,6 +168,8 @@ Integration
     capabilities that provide a secure environment for large
     enterprises and national entities to interact with
     Cardano without compromising their stringent standards.
+    This includes ensuring compliance with established risk
+    mitigation frameworks (e.g., SOC 1/2, ESA 341 types, MiCA).
 * **Streamline Financial and Operational Integration &
     Onboarding:** Facilitate seamless enterprise and national
     adoption by simplifying treasury management, invoicing,
@@ -160,20 +177,20 @@ Integration
     addressing accounting, auditing, and tax reporting
     requirements, potentially through tools that bridge
     blockchain data with traditional financial software.
-    Develop comprehensive solutions for legal and financial
-    onboarding barriers, engaging proactively with
-    academics, auditors, and legal advisors to ensure
-    compliance and ease of integration. Support for stablecoin
-    and real-world asset (RWA) tokenization liquidity use
-    cases, while currently often favoring private blockchains
-    due to cybersecurity, must be enabled securely and
-    efficiently on Cardano for broad institutional engagement.
+    The focus is on providing a plug-in layer that integrates
+    with existing legacy systems, rather than requiring
+    their replacement. Support for stablecoin and real-world
+    asset (RWA) tokenization, with a focus on illiquid
+    assets, is seen as a key long-term opportunity.
 * **Proactively Drive Business Development:** Systematically
     identify and pursue strategic partnerships with leading
     enterprises and national entities across target verticals.
-    Engage in targeted outreach and collaboration to secure
-    large-scale adoption and integrate Cardano solutions into
-    global business and public sector operations.
+    Grants and co-funded pilots from the ecosystem's
+    treasury are a critical tool to lower the barrier for
+    engagement and overcome internal resource constraints.
+    This includes active engagement in policy and regulatory landscapes
+    to foster equal access and broader understanding of
+    non-financial blockchain use cases.
 
 #### 5. Bolster SPO Incentives and Decentralization for Network Health
 
@@ -181,7 +198,10 @@ Integration
     to incentivize Stake Pool Operators (SPOs) and further
     decentralize infrastructure by enabling peer-to-peer
     transactions and allowing SPOs to determine their
-    participation and earnings.
+    participation and earnings. Encourage SPOs to diversify
+    roles beyond L1 block production, including supporting
+    scalable off-chain value provision, oracle services, or
+    decentralized hosting.
 * **Optimize SPO Infrastructure and Registry:** Explore an
     SPO registry to list operators capable of supporting
     Layer 2 protocols or Actively Validated Services (AVS)
@@ -197,8 +217,7 @@ Integration
     "leaching" and promoting sustainable growth of the
     broad Cardano ecosystem.
 
-#### 6. Advance Core Protocol Capabilities for Scalability and
-Efficiency
+#### 6. Advance Core Protocol Capabilities for Scalability and Efficiency
 
 * **Achieve World-Class L1 Scalability and Finality:**
     Ensure the Layer 1 protocol can handle growing
